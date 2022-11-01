@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as digital marketing strategies consultant and website development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and full stack
 - 👯 I’m looking to collaborate with people and companies that need help on those topics
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: send me an email to: lucia@agenciadrachen.com
