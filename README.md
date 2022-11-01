@@ -12,14 +12,15 @@
 
 <div>
   
-<img align="right" alt="bonequinhagiffinal" height="150" style="border-radius:10px;" src="https://media.discordapp.net/attachments/962820009925693510/1036810147193954334/bonequinhagiffinal.gif?width=473&height=473">  
+<img align="right" alt="bonequinhagiffinal" height="150" style="border-radius:0px;" src="https://media.discordapp.net/attachments/962820009925693510/1036810147193954334/bonequinhagiffinal.gif?width=473&height=473">  
 <a href="https://www.linkedin.com/in/lucialopes06/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.agenciadrachen.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 <a href="https://www.youtube.com/channel/UCjpHFvSsYCr_wwoTjYe-v1A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/nimitztech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/dhopamynaarcade" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucia@agenciadrachen.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
+![Snake animation](https://github.com/lucydiamond06/lucydiamond06/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
